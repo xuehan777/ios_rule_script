@@ -1,16 +1,16 @@
 # NAME: Emby直连
 
-DOMAIN-SUFFIX,https://pub1.emby.wtf
-DOMAIN-SUFFIX,http://ha.jmsooo.com
-DOMAIN-SUFFIX,https://emby-pub1.blueseacdn.com
-DOMAIN-SUFFIX,https://py.embyplus.club
-DOMAIN-SUFFIX,https://play.charontv.com
+DOMAIN-SUFFIX,pub1.emby.wtf
+DOMAIN-SUFFIX,ha.jmsooo.com
+DOMAIN-SUFFIX,emby-pub1.blueseacdn.com
+DOMAIN-SUFFIX,py.embyplus.club
+DOMAIN-SUFFIX,play.charontv.com
 DOMAIN-SUFFIX,cu.poloemby.xyz
-DOMAIN-SUFFIX,https://aaa.ax
-DOMAIN-SUFFIX,https://cf.misakaf.org
-DOMAIN-SUFFIX,http://cf.emby.ml
-DOMAIN-SUFFIX,http://catfishemby.club
-DOMAIN-SUFFIX,http://de.mjjemby.org
-DOMAIN-SUFFIX,http://cc.ccemby.tk
-DOMAIN-SUFFIX,https://embyx.one
-DOMAIN-SUFFIX,https://media.nijigem.by
+DOMAIN-SUFFIX,aaa.ax
+DOMAIN-SUFFIX,cf.misakaf.org
+DOMAIN-SUFFIX,cf.emby.ml
+DOMAIN-SUFFIX,catfishemby.club
+DOMAIN-SUFFIX,de.mjjemby.org
+DOMAIN-SUFFIX,cc.ccemby.tk
+DOMAIN-SUFFIX,embyx.one
+DOMAIN-SUFFIX,media.nijigem.by
